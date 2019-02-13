@@ -4,6 +4,7 @@
 
 - **email**: inicial de mi primer nombre + apellido @udd.cl
 - **twitter**: @[diegocaro](http://twitter.com/diegocaro)
+- [Google Scholar](https://scholar.google.com/citations?user=Yl5fIjkAAAAJ) + [DBLP](https://dblp.org/pers/hd/c/Caro:Diego)
 
 ## Cursos
 * Introducción a la programación [2019-1](https://github.com/diegocaro/prograudd) [2018-2](https://github.com/diegocaro/prograudd/tree/2018-2/)
