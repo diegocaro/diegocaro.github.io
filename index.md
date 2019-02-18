@@ -1,4 +1,6 @@
-# diegocaro.cl
+---
+title: diegocaro.cl
+---
 
 **Current status**: Research Assistant Professor at [Data Science Institute](http://datascience.udd.cl/), [Universidad del Desarrollo](http://www.udd.cl) + [Telefónica I+D](http://www.tidchile.cl) Fellow.
 

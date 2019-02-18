@@ -1,2 +1,4 @@
+NOW = $(shell date +%Y-%m-%d%n)
+
 all:
-	pandoc --template=./templates/GitHub.html5 index.md -o index.html
+	pandoc --template=./templates/mypage.html5 index.md -o index.html -V date-meta=${NOW}
