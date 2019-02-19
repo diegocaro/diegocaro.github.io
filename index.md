@@ -6,6 +6,7 @@ title: diegocaro.cl
 
 - **email**: inicial de mi primer nombre + apellido @udd.cl
 - **twitter**: @[diegocaro](https://twitter.com/diegocaro)
+- **github**: @[diegocaro](https://github.com/diegocaro/)
 - [Google Scholar](https://scholar.google.com/citations?user=Yl5fIjkAAAAJ) + [DBLP](https://dblp.org/pers/hd/c/Caro:Diego)
 
 ## Cursos
