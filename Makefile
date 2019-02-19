@@ -1,4 +1,16 @@
-NOW = $(shell date +%Y-%m-%d%n)
+.PHONY: all clean
+	
+DATE = $(shell date +%Y-%m-%d%n)
 
-all:
-	pandoc --template=./templates/mypage.html5 index.md -o index.html -V date-meta=${NOW}
+SRCS = $(wildcard *.md)
+HTML = $(SRCS:.md=.html)
+
+FLAGS = -V date-meta=${DATE} --template=./templates/mypage.html5
+
+all: ${HTML}
+
+%.html: %.md
+	pandoc ${FLAGS} $< -o $@
+	
+clean:
+	-rm -f ${HTML}
