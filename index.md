@@ -18,6 +18,7 @@ title: diegocaro.cl
 
 ## Estudiantes
 * Paula Vásquez Henríquez @[pauvasquezh](https://twitter.com/pauvasquezh/), Magíster (c) en Ciencias de la Ingeniería Universidad del Desarrollo. Co-guía con el Prof. Dr. [Eduardo Graells-Garrido](http://datagramas.cl/). Data Scientist en Banco BCI.
+* Yessica Herrera @[yessitaAliEn](https://twitter.com/yessitaAliEn/), estudiante de doctorado en Ciencias de la Complejidad Social, Facultad de Gobierno, Universidad del Desarrollo.
 
 ## Tesis Doctoral
 * [PhD Thesis page](thesis/index.html) + [code at github](https://github.com/diegocaro/temporalgraphs)
