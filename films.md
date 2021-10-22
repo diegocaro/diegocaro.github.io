@@ -1,10 +1,14 @@
 ---
-title: Films, documentales y series sobre computación
+title: Films y series sobre computación
 ---
 
-Como pocos de ustedes sabrán, me autodeclaro autodidacta y ñoño desde que tengo recuerdos. Durante parte de este largo aprendizaje he visto cómo lo han hecho otras personas para crear lo que hoy nos parece obvio. En particular me refiero a tecnologías como el navegador web, el computador personal, sistemas operativos basados en Unix, entre muchos otros.
+Como pocos de ustedes sabrán, me declaro autodidacta, curioso, y ñoño desde que tengo recuerdos. Parte este aprendizaje la he realizado por imitación, y por lo tanto, revisando cómo lo han hecho otras personas. En este articulo expongo algo que al día de hoy nos parece obvio: desde tecnologías como Internet, la Web y su navegador, el computador personal, entre muchos otros.
 
-Aquí les dejo una lista **no exhaustiva** de lo que recuerdo. Indicaré el link a Wikipedia para que busques más información. Los jumbitos es una medida que califica que tan nerd es un documental.
+Aquí les dejo una lista **no exhaustiva** de las películas que recuerdo. Indicaré el link a Wikipedia para que busques más información. Los 
+\#jumbitos🐘 que ven al final de cada film corresponden a una métrica personal de cuanto me gustó el film. 
+
+
+**Nota:** Los \#jumbitos🐘 no son una buena sugerencia porque tengo mala memoria. ajjajjaja
 
 
 ### Películas y series de TVs basadas en hechos reales
@@ -15,7 +19,7 @@ Aquí les dejo una lista **no exhaustiva** de lo que recuerdo. Indicaré el link
 - [Halt and Catch Fire (2014-2017)](https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series)). La historia de Compaq (IBM/Comptabile PC), el sistema operttivo CP/m, Internet, la Web, y la propiedad intelectual. [trailer](https://www.youtube.com/watch?v=pWrioRji60A). 5 jumbitos.
 - [The Billion Dollar Code (2021)](https://en.wikipedia.org/wiki/The_Billion_Dollar_Code). La historia de Intrinsic Graphics, una startup alemania de GIS (Graphical Information System) y como su idea fue robada en Silicon Valley. 5 jumbitos. [trailer](https://www.youtube.com/watch?v=iDvPvqImb-4).
 - [The Imitation Game (2014)](https://en.wikipedia.org/wiki/The_Imitation_Game). Historia del genio  Alan Turing ayuda a desencriptar mensjes alemnaes durante la WWII. Turing será parte importante del computador moderno y participará en la inteligencia artificial, y el computador moderno mediante la idea de programa almacenado (en una Turing Machine teórica). 5 jumbitos. [trailer](https://www.youtube.com/watch?v=j2jRs4EAvWM)
-- [Social Network (2010)](https://en.wikipedia.org/wiki/The_Imitation_Game). Historia sobre los primeros 10 años desde la conceptalizacoón de Facebook. 4 jumbitos. [trailer](https://www.youtube.com/watch?v=lB95KLmpLR4)
+- [Social Network (2010)](https://en.wikipedia.org/wiki/The_Imitation_Game). Historia sobre los primeros 10 años desde la conceptalizacoón de Facebook. 5 jumbitos. [trailer](https://www.youtube.com/watch?v=lB95KLmpLR4)
 
 
 ### Documentales
@@ -31,7 +35,7 @@ Aquí les dejo una lista **no exhaustiva** de lo que recuerdo. Indicaré el link
 - [UNIX: Making Computers Easier To Use, Bell Laboratories (1982)](https://www.youtube.com/watch?v=XvDZLjaCJuw) Esta es la versión larga del anterior. 10000000000 jumbitos. [youtube()](https://www.youtube.com/watch?v=XvDZLjaCJuw).
 
 
-Por cierto, aún debo darle algún orden lógico distinto al periódo en que las vi. La lista es larga :B
+Por cierto, aún debo darle algún orden lógico distinto al periodo en que las vi. La lista es larga :B
 
 ### Películas fantasía
 
