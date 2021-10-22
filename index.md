@@ -14,5 +14,7 @@ Publicaciones **no-científicas**:
 - [Films y Series de TV sobre computación](films.html)
 
 
-
 And thats all.
+
+
+![Ramona Bugambilia :)](photos/ramona.jpeg "Ramona Bugambilia")
