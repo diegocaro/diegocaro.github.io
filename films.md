@@ -1,8 +1,8 @@
 ---
-title: Films y series sobre computación
+title: Films y series de TV sobre computación
 ---
 
-Como pocos de ustedes sabrán, me declaro autodidacta, curioso, y ñoño desde que tengo recuerdos. Parte este aprendizaje la he realizado por imitación, y por lo tanto, revisando cómo lo han hecho otras personas. En este articulo expongo algo que al día de hoy nos parece obvio: desde tecnologías como Internet, la Web y su navegador, el computador personal, entre muchos otros.
+Como pocos de ustedes sabrán, me declaro autodidacta, curioso, y ñoño desde que tengo recuerdos. Parte este aprendizaje lo he realizado por imitación, y por lo tanto, revisando cómo lo han hecho otras personas. En este artículo expongo algo que al día de hoy nos parece obvio: el nacimiento de  tecnologías como Internet, la Web y su navegador, el computador personal, entre muchos otros.
 
 Aquí les dejo una lista **no exhaustiva** de las películas que recuerdo. Indicaré el link a Wikipedia para que busques más información. Los 
 \#jumbitos🐘 que ven al final de cada film corresponden a una métrica personal de cuanto me gustó el film. 
