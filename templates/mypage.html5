@@ -169,11 +169,11 @@ $-------------------------------------------------------------------------------
 
 <footer class="markdown-footer">
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a> 
+Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons Atribución 4.0 Internacional</a>.
 
 $if(date-meta)$
-<p>Last update: <time datetime="">$date-meta$</time>.</p>
+<p>Última actualización <time datetime="">$date-meta$</time>.</p>
 $endif$
 </footer>
 

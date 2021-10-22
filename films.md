@@ -33,6 +33,7 @@ Aquí les dejo una lista **no exhaustiva** de las películas que recuerdo. Indic
 - [Silicon Cowboys (2016)](https://www.imdb.com/title/tt4938484/) (imbd link). La historia de Compaq. 5 jumbitos. [youtube](https://www.youtube.com/watch?v=9TlIS1J7qCY)
 - [AT&T Archives: The UNIX Operating System (1982)](https://www.youtube.com/watch?v=tc4ROCJYbm0) La invención del sistema operativo multiusuario-multitarea Unix en Bell Labs, muestran cosas desde la línea de comando, la estrategia de tener un kernel. En fin, son los fundamentos de tu iPhone, Android, macOS y Ubuntu. [youtube](https://www.youtube.com/watch?v=tc4ROCJYbm0). 5 jumbitos.
 - [UNIX: Making Computers Easier To Use, Bell Laboratories (1982)](https://www.youtube.com/watch?v=XvDZLjaCJuw) Esta es la versión larga del anterior. 10000000000 jumbitos. [youtube()](https://www.youtube.com/watch?v=XvDZLjaCJuw).
+- [The Internet's Own Boy (2014)](https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy). La historia de Aaron Swartz, un activista de la era de Internet. [trailer](https://www.youtube.com/watch?v=o-PT1AZSdHQ) [youtube](https://www.youtube.com/watch?v=3Q6Fzbgs_Lg)
 
 
 Por cierto, aún debo darle algún orden lógico distinto al periodo en que las vi. La lista es larga :B
