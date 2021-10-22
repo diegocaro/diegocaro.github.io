@@ -1,5 +1,5 @@
 ---
-title: Films, documentales y series de TV sobre historias reales de tecnología y computación
+title: Films, documentales y series sobre computación
 ---
 
 Como pocos de ustedes sabrán, me autodeclaro autodidacta y ñoño desde que tengo recuerdos. Durante parte de este largo aprendizaje he visto cómo lo han hecho otras personas para crear lo que hoy nos parece obvio. En particular me refiero a tecnologías como el navegador web, el computador personal, sistemas operativos basados en Unix, entre muchos otros.
@@ -14,6 +14,9 @@ Aquí les dejo una lista **no exhaustiva** de lo que recuerdo. Indicaré el link
 - [Snowden (2016)](https://en.wikipedia.org/wiki/Snowden_(film)). La historia de Edward Snowden. 5 jumbitos. [trailer](https://www.youtube.com/watch?v=QlSAiI3xMh4)
 - [Halt and Catch Fire (2014-2017)](https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series)). La historia de Compaq (IBM/Comptabile PC), el sistema operttivo CP/m, Internet, la Web, y la propiedad intelectual. [trailer](https://www.youtube.com/watch?v=pWrioRji60A). 5 jumbitos.
 - [The Billion Dollar Code (2021)](https://en.wikipedia.org/wiki/The_Billion_Dollar_Code). La historia de Intrinsic Graphics, una startup alemania de GIS (Graphical Information System) y como su idea fue robada en Silicon Valley. 5 jumbitos. [trailer](https://www.youtube.com/watch?v=iDvPvqImb-4).
+- [The Imitation Game (2014)](https://en.wikipedia.org/wiki/The_Imitation_Game). Historia del genio  Alan Turing ayuda a desencriptar mensjes alemnaes durante la WWII. Turing será parte importante del computador moderno y participará en la inteligencia artificial, y el computador moderno mediante la idea de programa almacenado (en una Turing Machine teórica). 5 jumbitos. [trailer](https://www.youtube.com/watch?v=j2jRs4EAvWM)
+- [Social Network (2010)](https://en.wikipedia.org/wiki/The_Imitation_Game). Historia sobre los primeros 10 años desde la conceptalizacoón de Facebook. 4 jumbitos. [trailer](https://www.youtube.com/watch?v=lB95KLmpLR4)
+
 
 ### Documentales
 - [The Code (2001)](https://en.wikipedia.org/wiki/The_Code_(2001_film)), la historia de GNU, Linux y software libre. 4 jumbitos. [youtube](https://www.youtube.com/watch?v=Gl3a9fAJ4OQ)
@@ -24,10 +27,17 @@ Aquí les dejo una lista **no exhaustiva** de lo que recuerdo. Indicaré el link
 - [The mother of all demos (1968)](https://en.wikipedia.org/wiki/The_Mother_of_All_Demos), es el primer demo de lo que hoy se conoce como la interfaz de usuario computador, pero es aún más que eso! incluye redes, trabajo colaborativo, mouse, etc... lee el link a wikipedia para más info. [youtube](https://www.youtube.com/watch?v=yJDv-zdhzMY)
 - [Downloaded (2013)](https://en.wikipedia.org/wiki/Downloaded_(film)). La historia de Napster. [trailer](https://www.youtube.com/watch?v=kSZqkn9hT5w)
 - [Silicon Cowboys (2016)](https://www.imdb.com/title/tt4938484/) (imbd link). La historia de Compaq. 5 jumbitos. [youtube](https://www.youtube.com/watch?v=9TlIS1J7qCY)
-- **AT&T Archives: The UNIX Operating System**. La invención del sistema operativo multiusuario-multitarea Unix en Bell Labs, muestran cosas desde la línea de comando, la estrategia de tener un kernel. En fin, son los fundamentos de tu iPhone, Android, macOS y Ubuntu. [youtube](https://www.youtube.com/watch?v=tc4ROCJYbm0). 5 jumbitos.
-- **UNIX: Making Computers Easier To Use, Bell Laboratories (1982)**. Esta es la versión larga del anterior. 10000000000 jumbitos.
+- [AT&T Archives: The UNIX Operating System (1982)](https://www.youtube.com/watch?v=tc4ROCJYbm0) La invención del sistema operativo multiusuario-multitarea Unix en Bell Labs, muestran cosas desde la línea de comando, la estrategia de tener un kernel. En fin, son los fundamentos de tu iPhone, Android, macOS y Ubuntu. [youtube](https://www.youtube.com/watch?v=tc4ROCJYbm0). 5 jumbitos.
+- [UNIX: Making Computers Easier To Use, Bell Laboratories (1982)](https://www.youtube.com/watch?v=XvDZLjaCJuw) Esta es la versión larga del anterior. 10000000000 jumbitos. [youtube()](https://www.youtube.com/watch?v=XvDZLjaCJuw).
+
+
 Por cierto, aún debo darle algún orden lógico distinto al periódo en que las vi. La lista es larga :B
 
 ### Películas fantasía
 
 **pronto** avísame si quieres aportar :)
+
+
+
+#### Versioning
+20211022: Nikkita sugiere The Imitation Game y Social Network.
