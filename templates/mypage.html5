@@ -173,10 +173,10 @@ $-------------------------------------------------------------------------------
 Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons Atribución 4.0 Internacional</a>.
 
 $if(date-meta)$
-<p>Última actualización <time datetime="">$date-meta$</time>.</p>
+<p>Última actualización <a href="$file-meta$">$file-meta$</a>: <time datetime="">$date-meta$</time> </p>
 $endif$
 </footer>
 
-
+ 
 </body>
 </html>
