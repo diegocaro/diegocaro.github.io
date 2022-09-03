@@ -16,10 +16,10 @@ Aquí les dejo una lista **no exhaustiva** de las películas que recuerdo. Indic
 - [Valley of the Boom](https://en.wikipedia.org/wiki/Valley_of_the_Boom), la historia de como Silicon Valley llegó a la burbuja del año 2000. 2 jumbitos.
 - [Takedown (2001)](https://en.wikipedia.org/wiki/Track_Down), la historia de Kevin Mitnick. 3 jumbitos.
 - [Snowden (2016)](https://en.wikipedia.org/wiki/Snowden_(film)). La historia de Edward Snowden. 5 jumbitos. [trailer](https://www.youtube.com/watch?v=QlSAiI3xMh4)
-- [Halt and Catch Fire (2014-2017)](https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series)). La historia de Compaq (IBM/Comptabile PC), el sistema operttivo CP/m, Internet, la Web, y la propiedad intelectual. [trailer](https://www.youtube.com/watch?v=pWrioRji60A). 5 jumbitos.
-- [The Billion Dollar Code (2021)](https://en.wikipedia.org/wiki/The_Billion_Dollar_Code). La historia de Intrinsic Graphics, una startup alemania de GIS (Graphical Information System) y como su idea fue robada en Silicon Valley. 5 jumbitos. [trailer](https://www.youtube.com/watch?v=iDvPvqImb-4).
-- [The Imitation Game (2014)](https://en.wikipedia.org/wiki/The_Imitation_Game). Historia del genio  Alan Turing ayuda a desencriptar mensjes alemnaes durante la WWII. Turing será parte importante del computador moderno y participará en la inteligencia artificial, y el computador moderno mediante la idea de programa almacenado (en una Turing Machine teórica). 5 jumbitos. [trailer](https://www.youtube.com/watch?v=j2jRs4EAvWM)
-- [Social Network (2010)](https://en.wikipedia.org/wiki/The_Imitation_Game). Historia sobre los primeros 10 años desde la conceptalizacoón de Facebook. 5 jumbitos. [trailer](https://www.youtube.com/watch?v=lB95KLmpLR4)
+- [Halt and Catch Fire (2014-2017)](https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series)). La historia de Compaq (IBM/Compatible PC), el sistema operativo CP/m, Internet, la Web, y la propiedad intelectual. [trailer](https://www.youtube.com/watch?v=pWrioRji60A). 5 jumbitos.
+- [The Billion Dollar Code (2021)](https://en.wikipedia.org/wiki/The_Billion_Dollar_Code). La historia de Intrinsic Graphics, una startup alemana de GIS (Graphical Information System) y como su idea fue robada en Silicon Valley. 5 jumbitos. [trailer](https://www.youtube.com/watch?v=iDvPvqImb-4).
+- [The Imitation Game (2014)](https://en.wikipedia.org/wiki/The_Imitation_Game). Historia del genio  Alan Turing ayuda a desencriptar mensajes alemanes durante la WWII. Turing será parte importante del computador moderno y participará en la inteligencia artificial, y el computador moderno mediante la idea de programa almacenado (en una Turing Machine teórica). 5 jumbitos. [trailer](https://www.youtube.com/watch?v=j2jRs4EAvWM)
+- [Social Network (2010)](https://en.wikipedia.org/wiki/The_Imitation_Game). Historia sobre los primeros 10 años desde la conceptualización de Facebook. 5 jumbitos. [trailer](https://www.youtube.com/watch?v=lB95KLmpLR4)
 
 
 ### Documentales
@@ -45,4 +45,5 @@ Por cierto, aún debo darle algún orden lógico distinto al periodo en que las 
 
 
 #### Versioning
-20211022: Nikkita sugiere The Imitation Game y Social Network.
+20211022: [@Nikkita](https://twitter.com/nikkita126) sugiere The Imitation Game y Social Network.
+20220903: Correción ortográfica.

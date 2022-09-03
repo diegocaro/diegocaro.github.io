@@ -1,11 +1,11 @@
 ---
-title: diegocaro
+title: \@khipunk_
 ---
 
 **Current status**: happy.
 
-- **email**: yo@nombreapellido.cl
-- **twitter**: @[khipunkcl](https://twitter.com/khipunkcl/)
+- **email**: yo@ndiegocaro.cl
+- **twitter**: @[khipunk_](https://twitter.com/khipunk_/)
 - **github**: @[diegocaro](https://github.com/diegocaro/)
 
 
