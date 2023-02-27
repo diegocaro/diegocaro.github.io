@@ -4,7 +4,7 @@ title: \@khipunk_
 
 **Current status**: happy.
 
-- **email**: yo@diegocaro.cl
+- **email**: hola@diegocaro.cl
 - **twitter**: @[khipunk_](https://twitter.com/khipunk_/)
 - **github**: @[diegocaro](https://github.com/diegocaro/)
 
