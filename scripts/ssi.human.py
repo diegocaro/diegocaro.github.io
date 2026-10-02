@@ -92,4 +92,4 @@ def main(filepath: Path):
     
 if __name__ == "__main__":
     rendered = main(Path(sys.argv[1]))
-    print(rendered)
+    Path(sys.argv[2]).write_text(rendered)

@@ -19,10 +19,11 @@ RETAG = re.compile(r'(\w+)\s*=\s*"([^"]*)"')
 
 MAXREC = 5  # max recursion for include
 
+def error(message: str):
+    print(message, file=sys.stderr)
 
 def mtime(path: Path) -> str:
     return datetime.fromtimestamp(path.stat().st_mtime).astimezone().isoformat(timespec="seconds")
-
 
 def render(path: Path, root: Path, env: dict[str, str], level: int = 0) -> str:
     if level > MAXREC:
@@ -50,10 +51,17 @@ def render(path: Path, root: Path, env: dict[str, str], level: int = 0) -> str:
                     return mtime(target or path)
                 case _:
                     return m[0]  # unknown directive: leave as is
-        except (OSError, UnicodeDecodeError):
+        except (OSError, UnicodeDecodeError) as e:
+            error(str(e))
             return ""
-
-    return RECMD.sub(replace, path.read_text(encoding="utf-8"))
+            
+    try:
+        return RECMD.sub(replace, path.read_text(encoding="utf-8"))
+    except (OSError, UnicodeDecodeError) as e:
+        error(f"error while reading '{path}'\n\t{e}")
+        if level == 0:
+            sys.exit(-1)
+        return ""
 
 
 def main(path: Path) -> str:
@@ -63,6 +71,8 @@ def main(path: Path) -> str:
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
-        sys.exit(f"usage: {Path(sys.argv[0]).name} FILE")
-    print(main(Path(sys.argv[1])))
+    if len(sys.argv) != 3:
+        sys.exit(f"usage: {Path(sys.argv[0]).name} INPUT_FILE OUTPUT_FILE")
+    rendered = main(Path(sys.argv[1]))
+    Path(sys.argv[2]).write_text(rendered)
+    
