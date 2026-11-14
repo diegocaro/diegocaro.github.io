@@ -1,0 +1,133 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Diego by Caro</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    box-sizing: border-box;
+    padding-top: env(safe-area-inset-top, 0px);
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+    --room: #d9d4c7; --paper: #f1eadb; --ink: #23201b; --muted: #776f61; --rule: #cfc5b0; --pen: #2348d6; --label: #2348d6; --shadow: rgba(50,40,20,0.45);
+    --hl-a: rgba(255, 226, 0, 0.35); --hl-b: rgba(255, 226, 0, 0.75); --hl-c: rgba(255, 226, 0, 0.2);
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) { --room: #0f0f10; --paper: #1f1d1a; --ink: #ebe3d0; --muted: #9a917f; --rule: #3a362f; --pen: #8ea4ff; --label: #3b5be0; --shadow: rgba(0,0,0,0.8); color-scheme: dark; }
+  }
+  :root[data-theme="dark"] { --room: #0f0f10; --paper: #1f1d1a; --ink: #ebe3d0; --muted: #9a917f; --rule: #3a362f; --pen: #8ea4ff; --label: #3b5be0; --shadow: rgba(0,0,0,0.8); color-scheme: dark; }
+  html { scroll-padding-top: env(safe-area-inset-top, 0px); }
+  *, *::before, *::after { box-sizing: inherit; }
+
+  body {
+    margin: 0; background: var(--room); color: var(--ink);
+    font-family: "Hanken Grotesk", "Helvetica Neue", Arial, sans-serif;
+    padding: clamp(28px, 7vw, 72px) clamp(14px, 4vw, 40px);
+  }
+  .stage { position: relative; max-width: 700px; margin: 0 auto; }
+  /* the record sliding out of the sleeve */
+  .vinyl {
+    position: absolute; z-index: 0; top: clamp(-36px, -5vw, -18px); right: clamp(-60px, -7vw, -20px);
+    width: clamp(220px, 46vw, 360px); aspect-ratio: 1; border-radius: 50%;
+    background:
+      radial-gradient(circle, var(--label) 0 17%, #111 17.5% 19%, transparent 19.5%),
+      repeating-radial-gradient(circle, #151515 0 2px, #1d1d1d 2px 3px);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+  }
+  .vinyl::after {
+    content: ""; position: absolute; inset: 49%; border-radius: 50%; background: var(--room);
+  }
+  .sleeve {
+    position: relative; z-index: 1;
+    background: var(--paper); color: var(--ink);
+    padding: clamp(24px, 6vw, 56px);
+    box-shadow: 0 1px 0 rgba(255,255,255,0.4) inset, 0 18px 40px -16px var(--shadow);
+  }
+  .top {
+    display: flex; justify-content: space-between; align-items: baseline;
+    font-size: 13px; color: var(--muted); margin-bottom: clamp(24px, 5vw, 40px);
+    border-bottom: 1px solid var(--rule); padding-bottom: 12px;
+  }
+  .top strong { color: var(--ink); font-weight: 700; font-size: 15px; }
+  .notes { columns: 2 280px; column-gap: 40px; }
+  .notes p {
+    margin: 0 0 1.2em; break-inside: avoid;
+    font-size: clamp(14px, 2.4vw, 15.5px); line-height: 1.6;
+  }
+  mark {
+    color: inherit;
+    background-color: transparent;
+    background-image: linear-gradient(-100deg, var(--hl-a), var(--hl-b) 95%, var(--hl-c));
+    border-radius: 0.9em 0.25em 0.8em 0.3em;
+    padding: 0.04em 0.22em; margin: 0 -0.08em;
+    -webkit-box-decoration-break: clone; box-decoration-break: clone;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) { --hl-a: rgba(255, 210, 0, 0.18); --hl-b: rgba(255, 210, 0, 0.38); --hl-c: rgba(255, 210, 0, 0.1); }
+  }
+  :root[data-theme="dark"] { --hl-a: rgba(255, 210, 0, 0.18); --hl-b: rgba(255, 210, 0, 0.38); --hl-c: rgba(255, 210, 0, 0.1); }
+  .credits {
+    margin-top: clamp(20px, 4vw, 32px); padding-top: 14px;
+    border-top: 1px solid var(--rule);
+    display: grid; grid-template-columns: max-content 1fr; gap: 4px 18px;
+    font-size: 13px; line-height: 1.5;
+  }
+  .credits dt { color: var(--muted); }
+  .credits dd { margin: 0; }
+
+</style>
+</head>
+<body>
+  <div class="stage">
+    <div class="vinyl" aria-hidden="true"></div>
+    <main class="sleeve">
+      <div class="top"><strong>Diego by Caro</strong><span>Side B</span></div>
+      <div class="notes">
+      <p>When I was <mark>twelve, thirteen</mark>, when I really started to <mark>use computers</mark><br>
+I definitely wanted to become a <mark>programmer</mark><br>
+It was almost impossible because, it was, the dream was so big<br>
+That I didn’t see any chance because I was living in <mark>a city far from Santiago</mark><br>
+And, when I finally broke away from school and became a <mark>programmer</mark><br>
+I thought: well, now I may have a little bit of a chance<br>
+Because all I really wanted to do is <mark>software</mark><br>
+And not only to <mark>code software</mark>, but <mark>design software</mark></p>
+      <p>At that time, in <mark>Chile</mark>, in <mark>’97, ’98</mark>, they had already <mark>cybercafés</mark><br>
+So, I would take my <mark>bike</mark>, would go to a <mark>cybercafé</mark><br>
+<mark>Browse</mark> maybe thirty minutes<br>
+I think I had about seven, eight <mark>webpages</mark><br>
+I would partially sleep <mark>on the keyboard</mark><br>
+Because I didn’t want to <mark>leave the computer</mark> and that helped me for about<br>
+Almost two years to <mark>learn</mark> in the beginning</p>
+      <p>I wanted to do <mark>a dynamic guestbook,</mark><br>
+<mark>a dynamic guestbook like a newsgroup, or IRC</mark><br>
+And then have a <mark>webpage</mark> of the future<br>
+And I said: Wait a second, I know the <mark>C programming language</mark><br>
+Why don’t I use <mark>PHP</mark> which is <mark>a language based on C</mark>?<br>
+And I didn’t have any idea what to do<br>
+But I knew I needed <mark>a PC, a PC with a modem</mark>,<br>
+Which then was <mark>connected to the internet</mark><br>
+I knew that could be the <mark>webpage</mark> of the future<br>
+But I didn’t realize how much the impact would be</p>
+      <p>My name is <mark>Diego Caro</mark><br>
+But everybody calls me <mark>Diego</mark></p>
+      <p>Once you free your mind about a concept of<br>
+<mark>LLMs and Claude Code</mark> being correct<br>
+You can do whatever you want<br>
+So, nobody told me what to do<br>
+And there was no preconception of what to do</p>
+      </div>
+      <dl class="credits">
+        <dt>Spoken by</dt><dd>Diego Caro</dd>
+        <dt>Recorded at</dt><dd>A cybercafé, Chile, ’98</dd>
+      </dl>
+    </main>
+  </div>
+</body>
+</html>
+
+</body></html>
