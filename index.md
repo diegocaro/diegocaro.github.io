@@ -14,6 +14,7 @@ title: Diego Caro
 Publicaciones **no-científicas**:
 
 - [Films y Series de TV sobre computación](films.html)
+- [Lado B](ladob/)
 
 
 And thats all.
