@@ -2,7 +2,7 @@
 	
 DATE = $(shell date +"%Y-%m-%d %H:%M:%S")
 
-SRCS = $(wildcard *.md ladob/*.md)
+SRCS = $(filter-out CLAUDE.md CLAUDE.local.md,$(wildcard *.md ladob/*.md))
 HTML = $(SRCS:.md=.html)
 GITHUB = https://github.com/diegocaro/diegocaro.github.io/blob/main
 
