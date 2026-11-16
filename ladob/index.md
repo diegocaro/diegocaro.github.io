@@ -6,6 +6,6 @@ title: Lado B
 
 En 2026, el límite es la imaginación.
 
-- [Diego by Caro](diego_by_caro.html) (nov 2026): *free your mind about a concept of LLMs and Claude Code being correct*.
+- [Diego by Caro](diego_by_caro.html) (nov 2026): software sin límites, *now you can do whatever you want*.
 
 [← diegocaro.cl](../)
